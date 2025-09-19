@@ -1,0 +1,20 @@
+[project]
+name = "homework"
+version = "0.1.0"
+description = "Python project with Google Cloud and ML dependencies"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel",
+    "ipython",
+    "matplotlib",
+    "matplotlib-inline",
+    "numpy",
+    "pandas",
+    "pip",
+    "scikit-learn",
+    "seaborn",
+    "wget>=3.2",
+]
+
+[tool.uv]
+dev-dependencies = []
