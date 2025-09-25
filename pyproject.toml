@@ -13,6 +13,7 @@ dependencies = [
     "pip",
     "scikit-learn",
     "seaborn",
+    "tdqm>=0.0.1",
     "wget>=3.2",
 ]
 
